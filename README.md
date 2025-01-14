@@ -11,7 +11,7 @@ The **Target Data Engineering & Governance** project aims to streamline Target's
 - **Order Fulfillment and Inventory Management System**
 - **Data Warehouse Integration**
 
-Additionally, it explores how Target can leverage **social media** and **in-store audio data** to drive business intelligence and improve decision-making.
+![image](https://github.com/user-attachments/assets/507503c5-93b7-44ee-a5f9-2fea3dd5195e)
 
 ## Data Models
 
